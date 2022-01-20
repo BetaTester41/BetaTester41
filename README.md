@@ -15,7 +15,8 @@ I'm a new to using GitHub, but I'm learning... a lot. I publish my project in ho
 
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true"></code>
-<code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>    
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true"></code>
 
 <a href="https://github.com/BetaTester41/BetaTester41">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BetaTester41&show_icons=true&bg_color=0d1117&text_color=58a6ff&hide_border=true&icon_color=2f80ed" />
