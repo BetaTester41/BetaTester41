@@ -3,12 +3,11 @@
     <img src="https://komarev.com/ghpvc/?username=BetaTester41&color=blue&style=flat-square">
 </a>
 
+I have been working with Javascript for a while, and it all started with little Chrome Extension that did little things. I'm currently in the process of learning to use Python and Java.
 
-I'm a new to using GitHub, but I'm learning... a lot. I publish my project in hope other would be inspired to do the same. Most of the things I publish would be Chrome Extension, and other things that I would be trying.
-
-- 📚 Currently learning Javascript.
-- 👷‍♂️Working on themeing extensions.
-- 🔎 Exploring how to use Markdown
+- 📚 Working with Javascript and Python
+- 👷‍♂️ Made Chrome Extensions
+- 🔎 Exploring the world of Java
 - 🏢 Very busy with other thing.
 
 **A self-taught frontend deveoloper learning/using:**
