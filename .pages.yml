@@ -1,13 +1,11 @@
 media: 
   - name: media
     label: Media
-    input: src/media
-    output: /media
+    input: cms/media
     categories: [ image, video ]
   - name: files
     label: Files
-    input: src/files
-    output: /files
+    input: cms/files
     categories: [ document, compressed ]
 content:
   - name: posts
