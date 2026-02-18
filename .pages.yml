@@ -2,10 +2,12 @@ media:
   - name: media
     label: Media
     input: cms/media
+    output: /cms/media
     categories: [ image, video ]
   - name: files
     label: Files
     input: cms/files
+    output: /cmd/files
     categories: [ document, compressed ]
 content:
   - name: posts
