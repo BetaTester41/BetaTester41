@@ -1,0 +1,29 @@
+media: 
+  - name: media
+    label: Media
+    input: src/media
+    output: /media
+    categories: [ image, video ]
+  - name: files
+    label: Files
+    input: src/files
+    output: /files
+    categories: [ document, compressed ]
+content:
+  - name: posts
+    label: Posts
+    path: src/posts
+    type: collection
+    fields:
+      # to be filled
+      - {name: title, label: Title, type: string, required: true}
+      - {name: metaTitle, label: Meta Title, type: string, required: true}
+      - {name: metaDescription, label: Meta Description, type: string, required: true}
+      - {name: description, label: Description, type: string, required: true}
+      - {name: featuredImg, label: Featured Image, type: image, required: true}
+      - {name: subHeading, label: Sub Heading, type: string, required: true}
+      - {name: date, label: Date, type: date, required: false}
+      - {name: updated, label: Updated, type: date, required: false}
+      - {name: published, label: published, type: boolean, required: true}
+      - {name: body, label: Content, type: code, required: false}
+      - {name: tags, label: tags, type: string, required: false}
